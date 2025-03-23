@@ -1,5 +1,6 @@
 # AJ-Sales-DashBoar
 This sales dashboard provides a detailed overview of revenue performance across different categories, demographics, and payment methods. Here are the key insights:
+<img width="960" alt="Classwork 27-02-2025 - Excel 3_3_2025 3_21_25 PM" src="https://github.com/user-attachments/assets/fa4f2721-c803-4724-baa6-0c5a90256995" />
 
 ### **1. Overall Performance Metrics**
 - **Total Orders:** 99,457
