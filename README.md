@@ -62,5 +62,3 @@ The dashboard enables selecting sales data for **2021, 2022, and 2023**, allowin
 - January is the best-performing month, while April sees the lowest sales.
 - Cash is the most preferred payment method.
 - The dashboard is interactive, allowing filtering by mall and year.
-
-Would you like further breakdowns, such as year-over-year trends or specific mall performance?
